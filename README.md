@@ -8,6 +8,12 @@
 
 - 📫 How to reach me **umerthow.kaitokid@gmail.com**
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/3c497b76-5ef3-4ce0-9267-d270f5cd8fdb" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws-cert-solutions" width="40" height="40"/> AWS Certified Solutions Architect – Associate </a> 
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-umar-139693a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-umar-139693a2" height="30" width="40" /></a>
