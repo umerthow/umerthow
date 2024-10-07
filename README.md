@@ -14,4 +14,8 @@ With **8 years of experience** under my belt, I've had the privilege of working 
 - 🛠 Building solid, reliable systems from scratch.
 - 🌐 Discussing anything related to **software engineering** and the future of **Web3**.
 
+### Let's Connect:
+- [LinkedIn](https://linkedin.com/in/ahmad-umar-139693a2)
+- [Instagram](https://instagram.com/umer_umar)
+
 If you're passionate about these things too, or just want to chat about tech (or coffee), **don’t hesitate to say hi!** 👋
