@@ -2,7 +2,7 @@
 
 I'm a **Senior Software Engineer** who thrives on coding, coffee, and continuous learning. 
 
-With **8 years of experience** under my belt, I've had the privilege of working on **enterprise systems** at Telkom Indonesia, and before that, building financial technology at **Bibit.id**. I’m a proud graduate of **Sebelas Maret University** in Surakarta, Indonesia.
+With **8 years of experience** under my belt, I've had the privilege of working on **enterprise systems** at Telkom Indonesia, and before that, building financial technology as a Backend Engineer at **Bibit.id**. I’m a proud graduate of **Sebelas Maret University** in Surakarta, Indonesia.
 
 ### What I Do:
 - 💻 **Languages**: TypeScript, Golang, and a dash of other things when the project calls for it.
