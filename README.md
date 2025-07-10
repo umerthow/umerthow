@@ -6,7 +6,7 @@ With **8 years of experience** under my belt, I've had the privilege of working 
 
 ### What I Do:
 - 💻 **Languages**: TypeScript, Golang, and a dash of other things when the project calls for it.
-- 🔧 **Focus**: Crafting robust backend systems that scale and perform.
+- 🔧 **Tools**: Supabase, Netlify, n8n, Amplify, OpenAI.
 - 🛠 **Interests**: Always exploring new horizons—currently diving deep into the world of **blockchain** and **Web3**.
 
 ### What I Love:
